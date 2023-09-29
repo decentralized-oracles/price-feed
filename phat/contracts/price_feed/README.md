@@ -61,3 +61,4 @@ parallel execution.
 Meta transaction allows the Phat Contract to submit rollup tx with attest key signature while using
 arbitrary account to pay the gas fee. To enable meta tx in the unit test, change the `.env` file
 and specify `SENDER_KEY`.
+
